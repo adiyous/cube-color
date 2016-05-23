@@ -3,7 +3,7 @@ using System.Collections;
 //spining cube
 public class move : MonoBehaviour {
 
-	public float speed = 10f;
+	public float speed = 100f;
 
 	void Update ()
 	{
